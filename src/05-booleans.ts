@@ -1,8 +1,8 @@
 (()=>{
   let isEnabled = true;
 
-  isEnabled='as';
-  isEnabled=1212;
+  //isEnabled='as';
+  //isEnabled=1212;
   isEnabled=false;
 
   let isNew: boolean = false;

@@ -8,12 +8,12 @@
   customerAge = customerAge + 1
   console.log('customerAge', customerAge);
 
-  let productsInStock: number;
-  console.log('productsInStock', productsInStock);
+  // let productsInStock: number;
+  // console.log('productsInStock', productsInStock);
 
-  if (productsInStock > 10) {
-    console.log('is greater');
-  }
+  // if (productsInStock > 10) {
+  //   console.log('is greater');
+  // }
 
   let discount = parseInt('100');
   console.log('discount',discount);
